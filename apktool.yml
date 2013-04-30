@@ -1,0 +1,12 @@
+version: 1.5.2
+apkFileName: BasicJeopardyDuov4.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '3'
+packageInfo:
+  cur_package: appinventor.ai_kyleps.BasicJeopardyDuo
+  orig_package: appinventor.ai_kyleps.BasicJeopardyDuo
+compressionType: false
